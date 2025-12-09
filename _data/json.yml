@@ -1,1 +1,33 @@
-# empty
+- key: Name
+  value: S0cket
+
+- key: Description
+  value:
+    - Hello!
+    - Welcome to my portfolio!
+  typed: true
+
+- key: Projects
+  value:
+    - key: Kryx
+      value: Kryx
+      url: https://github.com/DuhS0cket/Kryx
+
+- key: Contact
+  value:
+    - key: Email
+      value: Duh.S0cket@proton.me
+      url: "mailto:Duh.S0cket@proton.me"
+    - key: Discord
+      value: .S0cket
+
+- key: Original Source
+  value: piazzai/hacked-jekyll
+  url: https://github.com/piazzai/hacked-jekyll
+
+- key: Profiles
+  value:
+    - value: LinkedIn
+      url: https://www.linkedin.com
+    - value: GitHub
+      url: https://github.com/DuhS0cket

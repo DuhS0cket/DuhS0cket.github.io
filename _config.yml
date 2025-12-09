@@ -1,0 +1,21 @@
+title: "S0cket"
+description: "My portfolio built on the Hacked Jekyll Theme by piazzai"
+
+url: "https://DuhS0cket.github.io"
+baseurl: ""
+
+remote_theme: piazzai/hacked-jekyll
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - LICENSE
+  - README.md
+  - Gemfile
+  - vendor/
+
+sass:
+  sourcemap: never
