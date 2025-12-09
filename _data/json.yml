@@ -21,13 +21,13 @@
     - key: Discord
       value: .S0cket
 
-- key: Original Source
-  value: piazzai/hacked-jekyll
-  url: https://github.com/piazzai/hacked-jekyll
-
 - key: Profiles
   value:
     - value: LinkedIn
       url: https://www.linkedin.com
     - value: GitHub
       url: https://github.com/DuhS0cket
+
+- key: Original Source
+  value: piazzai/hacked-jekyll
+  url: https://github.com/piazzai/hacked-jekyll
