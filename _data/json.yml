@@ -23,8 +23,6 @@
 
 - key: Profiles
   value:
-    - value: LinkedIn
-      url: https://www.linkedin.com
     - value: GitHub
       url: https://github.com/DuhS0cket
 
