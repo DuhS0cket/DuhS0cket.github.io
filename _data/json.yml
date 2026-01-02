@@ -24,7 +24,8 @@
     - key: Discord
       value: .S0cket
     - key: Discord Server
-      value: "https://discord.gg/3GthT3JsGa"
+      value: Join
+      link: https://discord.gg/3GthT3JsGa
 
 - key: Profiles
   value:
